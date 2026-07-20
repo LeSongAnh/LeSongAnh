@@ -15,4 +15,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=SongAnh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/057b0f6f-a722-478e-950d-5355b24a4066" /># SongAnh
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
