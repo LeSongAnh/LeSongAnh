@@ -14,7 +14,6 @@
 - 👯 **Collaborating on:** Open-source IT Support tools and automation scripts (`PowerShell` / `Python`)
 - 🤝 **Looking for help with:** Advanced System Administration & Network Management (CCNA)
 - 🌱 **Learning:** Active Directory, Microsoft 365 Administration, Ticketing Systems (Jira/ServiceNow)
-- 💬 **Ask me about:** Windows/Linux OS, PC building, LAN/IP/DNS
 - ⚡ **Fun fact:** *"Have you tried turning it off and on again?"* 🔌 (Fixes 80% of issues!)
 
     </td>
