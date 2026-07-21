@@ -27,7 +27,6 @@
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesonganh229@gmail.com)
 
-    </td>
   </tr>
 </table>
 
