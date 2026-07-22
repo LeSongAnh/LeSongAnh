@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Song Anh 👋</h1>
 <p align="center">
-  <em>IT Help Desk & System Administrator Enthusiast</em>
+  <em>Intern IT Help Desk </em>
 </p>
 
 ---
