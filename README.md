@@ -1,9 +1,17 @@
-<h1 align="center">Hi there, I'm Song Anh 👋</h1>
-<p align="center">
-  <em>Intern IT Help Desk </em>
-</p>
+<!-- HEADER: Emerald Green + White Text + Montserrat Font -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Hi%20there,%20I%27m%20Song%20Anh&fontSize=60&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Intern%20IT%20Help%20Desk%20%7C%20Student%20at%20DaLat%20University&descAlignY=60&descAlign=50" width="100%" />
+</div>
 
----
+<!-- INTRO: Typing Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Intern+IT+Help+Desk;Student+at+DaLat+University">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=600&lines=Intern+IT+Help+Desk;Student+at+DaLat+University">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=600&lines=Intern+IT+Help+Desk;Student+at+DaLat+University">
+  </picture>
+</div>
+
 
 ### 💫 About Me
 <table>
